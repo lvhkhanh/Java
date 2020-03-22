@@ -2,6 +2,8 @@
 
 [Learn Java](https://www.codecademy.com/learn/learn-java)
 
+https://introcs.cs.princeton.edu/java/home
+
 [Java Tutorial](https://www.w3schools.com/java/default.asp)
 
 [Java Tutorial for Beginners: Learn in 7 Days](https://www.guru99.com/java-tutorial.html)
