@@ -25,6 +25,7 @@ public class Test{
   public static void main(String[] args){
     String[] array = new String[]{"a", "b"};
     System.out.println(array);
+    System.out.println(Arrays.toString(array));
   }
 
 }
