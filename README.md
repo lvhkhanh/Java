@@ -1,5 +1,11 @@
 # Java
 ## Courses
+### https://www.coursera.org/learn/teach-java-sequences-primitive-types-object?specialization=teach-java
+### https://www.coursera.org/learn/teach-java-boolean-expressions-if-statements-iteration?specialization=teach-java
+### https://www.coursera.org/learn/teach-java-classes-arrays?specialization=teach-java
+### https://www.coursera.org/learn/teach-java-arraylist-2d-arrays?specialization=teach-java
+### https://www.coursera.org/learn/teach-java-inheritance-recursion
+
 ### https://www.codecademy.com/learn/learn-java
 [Learn Java](https://www.codecademy.com/learn/learn-java)
 
