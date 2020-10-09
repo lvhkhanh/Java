@@ -3,6 +3,12 @@
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 ## Paths
 ### https://www.udacity.com/course/java-developer-nanodegree--nd035
+### https://app.pluralsight.com/paths/skill/unit-testing-in-java 8h
+### https://app.pluralsight.com/paths/skill/java-coding-practices 9h
+### https://app.pluralsight.com/paths/skill/design-patterns-in-java 12h
+### https://app.pluralsight.com/paths/skill/java-tooling 16h 
+### https://app.pluralsight.com/paths/skill/java-ee-foundations 33h
+### https://app.pluralsight.com/paths/skill/java 51h
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
