@@ -6,6 +6,7 @@
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
+### https://cognitiveclass.ai/courses/java-ee-applications
 ### https://www.coursera.org/learn/teach-java-sequences-primitive-types-object?specialization=teach-java
 ### https://www.coursera.org/learn/teach-java-boolean-expressions-if-statements-iteration?specialization=teach-java
 ### https://www.coursera.org/learn/teach-java-classes-arrays?specialization=teach-java
