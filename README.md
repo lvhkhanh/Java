@@ -12,6 +12,7 @@
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
+### https://www.w3schools.com/java/default.asp
 ### https://codelearn.io/learning/java-fundamentals
 ### https://university.mongodb.com/courses/M220J/about
 ### https://www.sololearn.com/Course/Java/
