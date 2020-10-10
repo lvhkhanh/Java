@@ -2,7 +2,8 @@
 ## Prerequisites
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 ## Paths
-### https://www.coursera.org/specializations/java-programming
+### https://www.coursera.org/specializations/java-programming 80h Approx. 5 months to complete Suggested 4 hours/week
+### https://www.coursera.org/specializations/object-oriented-programming 120h Approx. 5 months to complete Suggested 6 hours/week
 ### https://www.udacity.com/course/java-developer-nanodegree--nd035
 ### https://app.pluralsight.com/paths/skill/unit-testing-in-java 8h
 ### https://app.pluralsight.com/paths/skill/java-coding-practices 9h
@@ -13,6 +14,7 @@
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
+### https://www.geeksforgeeks.org/java/
 ### https://www.w3schools.com/java/default.asp
 ### https://codelearn.io/learning/java-fundamentals
 ### https://university.mongodb.com/courses/M220J/about
