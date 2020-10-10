@@ -2,6 +2,7 @@
 ## Prerequisites
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 ## Paths
+### https://www.coursera.org/specializations/java-programming
 ### https://www.udacity.com/course/java-developer-nanodegree--nd035
 ### https://app.pluralsight.com/paths/skill/unit-testing-in-java 8h
 ### https://app.pluralsight.com/paths/skill/java-coding-practices 9h
