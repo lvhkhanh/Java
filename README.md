@@ -1,4 +1,4 @@
-# Java
+# Java [Khanh.Le@codecademy](https://www.codecademy.com/profiles/Khanh.Le)
 ## Prerequisites
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 ## Paths
@@ -23,8 +23,7 @@
 ### https://www.coursera.org/learn/teach-java-arraylist-2d-arrays?specialization=teach-java
 ### https://www.coursera.org/learn/teach-java-inheritance-recursion
 
-### https://www.codecademy.com/learn/learn-java
-[Learn Java](https://www.codecademy.com/learn/learn-java)
+- [x] [Learn Java](https://www.codecademy.com/learn/learn-java)
 
 https://introcs.cs.princeton.edu/java/home
 
