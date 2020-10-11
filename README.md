@@ -1,5 +1,6 @@
 # Java [Khanh.Le@codecademy](https://www.codecademy.com/profiles/Khanh.Le)
 ## Prerequisites
+### https://www.udacity.com/course/how-to-use-git-and-github--ud775
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 ## Paths
 ### https://www.udacity.com/course/java-developer-nanodegree--nd035
@@ -14,6 +15,11 @@
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
+### https://www.udacity.com/course/java-programming-basics--ud282 Approx. 6 Weeks
+### https://www.udacity.com/course/object-oriented-programming-in-java--ud283 Approx. 4 Weeks
+### https://www.udacity.com/course/how-to-install-android-studio--ud808 Approx. 1 Day
+### https://www.udacity.com/course/gradle-for-android-and-java--ud867 Approx. 6 Weeks
+
 ### https://www.geeksforgeeks.org/java/
 ### https://www.w3schools.com/java/default.asp
 ### https://codelearn.io/learning/java-fundamentals
