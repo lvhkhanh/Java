@@ -2,8 +2,9 @@
 ## Prerequisites
 ### https://www.udacity.com/course/how-to-use-git-and-github--ud775
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
+### https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 ## Paths
-### https://www.udacity.com/course/java-developer-nanodegree--nd035
+
 ### https://app.pluralsight.com/paths/skill/unit-testing-in-java 8h
 ### https://app.pluralsight.com/paths/skill/java-coding-practices 9h
 ### https://app.pluralsight.com/paths/skill/design-patterns-in-java 12h
@@ -12,6 +13,7 @@
 ### https://app.pluralsight.com/paths/skill/java 51h
 - [ ] https://www.coursera.org/specializations/java-programming 80h Approx. 5 months to complete Suggested 4 hours/week
 ### https://www.coursera.org/specializations/object-oriented-programming 120h Approx. 5 months to complete Suggested 6 hours/week
+### https://www.udacity.com/course/java-developer-nanodegree--nd035 160h 4 Months At 5-10 hours/week
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
