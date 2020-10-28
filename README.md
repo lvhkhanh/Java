@@ -50,8 +50,10 @@ https://introcs.cs.princeton.edu/java/home
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/java_succinctly_part_1
 ### https://www.syncfusion.com/ebooks/java_succinctly_part_2
+### https://subscription.packtpub.com/book/programming/9781838986698 Java 12
 ### https://www.packtpub.com/free-ebook/artificial-intelligence-for-big-data/9781788472173
-### 
+## Tools
+### IntelliJ
 ## Links
 ### https://www.codecademy.com/catalog/language/java
 ### https://www.progress.com/tutorials/xquery/creating-a-web-service
