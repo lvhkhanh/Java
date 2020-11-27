@@ -52,6 +52,7 @@ https://introcs.cs.princeton.edu/java/home
 ### https://www.syncfusion.com/ebooks/java_succinctly_part_2
 ### https://subscription.packtpub.com/book/programming/9781838986698 Java 12
 ### https://www.packtpub.com/free-ebook/artificial-intelligence-for-big-data/9781788472173
+- [ ] [Java Fundamentals](https://subscription.packtpub.com/book/application_development/9781789801736) 480pages 2019
 ## Tools
 ### IntelliJ
 ## Links
