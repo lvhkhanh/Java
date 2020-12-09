@@ -4,7 +4,7 @@
 ### https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
 ### https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 ## Officials
-- [ ] https://learn.oracle.com/ols/course/java-se-11-new-features/40805/54823
+- [x] https://learn.oracle.com/ols/course/java-se-11-new-features/40805/54823
 ## Paths
 
 ### https://app.pluralsight.com/paths/skill/unit-testing-in-java 8h
