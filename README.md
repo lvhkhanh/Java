@@ -56,6 +56,14 @@ https://introcs.cs.princeton.edu/java/home
 ### https://subscription.packtpub.com/book/programming/9781838986698 Java 12
 ### https://www.packtpub.com/free-ebook/artificial-intelligence-for-big-data/9781788472173
 - [ ] [Java Fundamentals](https://subscription.packtpub.com/book/application_development/9781789801736) 480pages 2019
+## Unit testing
+### https://github.com/junit-team/junit4
+- [ ] https://www.vogella.com/tutorials/JUnit/article.html
+- [ ] https://www.tutorialspoint.com/junit/index.htm
+- [ ] https://www.guru99.com/junit-tutorial.html
+- [ ] https://netbeans.org/kb/docs/java/junit-intro.html
+- [ ] https://developer.android.com/training/testing/unit-testing/local-unit-tests
+
 ## Tools
 ### IntelliJ
 ## Links
