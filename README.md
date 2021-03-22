@@ -80,6 +80,7 @@ public class Test{
     String[] array = new String[]{"a", "b"};
     System.out.println(array);
     System.out.println(Arrays.toString(array));
+    System.out.println(Arrays.deepToString(array));
   }
 
 }
