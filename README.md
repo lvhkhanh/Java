@@ -66,6 +66,8 @@ https://introcs.cs.princeton.edu/java/home
 
 ## Tools
 ### IntelliJ
+### Lombok
+### Checker-qual
 ## Links
 ### https://www.codecademy.com/catalog/language/java
 ### https://www.progress.com/tutorials/xquery/creating-a-web-service
