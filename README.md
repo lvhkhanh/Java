@@ -20,6 +20,7 @@
 ## StyleGuide
 ### https://google.github.io/styleguide/javaguide.html
 ## Courses
+- [x] [Build Basic Android Apps with Java Skill Path](https://www.codecademy.com/profiles/KhanhLVH/certificates/5e46f39b68800d0011f5b923)
 ### https://www.udacity.com/course/java-programming-basics--ud282 Approx. 6 Weeks
 ### https://www.udacity.com/course/object-oriented-programming-in-java--ud283 Approx. 4 Weeks
 ### https://www.udacity.com/course/how-to-install-android-studio--ud808 Approx. 1 Day
