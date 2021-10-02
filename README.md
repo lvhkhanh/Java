@@ -7,7 +7,12 @@
 - [x] https://learn.oracle.com/ols/course/java-se-11-new-features/40805/54823
 - [ ] https://education.oracle.com/java-se-programming-i-mooc
 ## Paths
-
+### Web Development
+#### Spring
+#### Thymeleaf
+#### JSF
+#### JSP
+#### Servlet
 ### https://app.pluralsight.com/paths/skill/unit-testing-in-java 8h
 ### https://app.pluralsight.com/paths/skill/java-coding-practices 9h
 ### https://app.pluralsight.com/paths/skill/design-patterns-in-java 12h
