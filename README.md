@@ -8,6 +8,8 @@
 - [ ] https://education.oracle.com/java-se-programming-i-mooc
 ## Paths
 ### Web Development
+#### Spring WebFlux
+#### Spring MVC
 #### Spring
 #### Thymeleaf
 #### JSF
