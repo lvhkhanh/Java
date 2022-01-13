@@ -83,6 +83,8 @@ https://introcs.cs.princeton.edu/java/home
 ### https://www.progress.com/tutorials/xquery/creating-a-web-service
 ### https://docs.jboss.org/tools/4.1.0.Final/en/ws_soap_reference/html/simple_web_service.html
 ### https://docs.oracle.com/cd/E17802_01/webservices/webservices/reference/tutorials/wsit/doc/Examples_glassfish4.html
+## API
+- [x] display data exactly as it appears in Excel https://poi.apache.org/apidocs/dev/org/apache/poi/ss/usermodel/DataFormatter.html
 ## Notes
 ### Licenses
 ```
