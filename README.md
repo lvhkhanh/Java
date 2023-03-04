@@ -86,6 +86,9 @@ https://introcs.cs.princeton.edu/java/home
 ## API
 - [x] display data exactly as it appears in Excel https://poi.apache.org/apidocs/dev/org/apache/poi/ss/usermodel/DataFormatter.html
 ## Notes
+```
+Runtime.getRuntime().availableProcessors() -> 4
+```
 ### Licenses
 ```
 import java.util.Arrays;
